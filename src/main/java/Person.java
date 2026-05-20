@@ -1,5 +1,6 @@
 public class Person {
     // this
+    //fields
     private String name;
     private  int id;
     private double age;
@@ -9,7 +10,7 @@ public class Person {
     {
         System.out.println("DEFAULT CONSTRUCTOR");
     }
-
+//setters
     public void setName(String name){
         if (name!=null)
             this.name = name;

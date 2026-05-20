@@ -19,3 +19,19 @@ public class MainPerson {
     }
 
 }
+/*  HW3
+1.
+Computer
+
+company(String)     "Lenovo"
+ram(int)            "8 ar 16"
+cpu(String)         i5 ar i9
+sdd(int)            500 Gb
+set/get
+
+ MainComputer -> main
+        create 3 objects Computer
+        use setters and getters for printing
+
+   2. for your choose
+ */
